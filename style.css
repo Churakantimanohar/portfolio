@@ -179,3 +179,19 @@ footer .social-icons a i {
         opacity: 1;
     }
 }
+
+.view-button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #4caf50; /* Green color */
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .view-button:hover {
+    background-color: #45a049; /* Darker green */
+  }
